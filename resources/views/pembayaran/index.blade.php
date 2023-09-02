@@ -11,8 +11,8 @@
         <!-- DataTales Example -->
         <div class="card shadow mb-4">
             <div class="card-header py-3">
-                <h6 class="m-0 font-weight-bold text-primary">CRUD Laravel
-                    <button class="btn btn-sm btn-primary float-right" data-toggle="modal" data-target="#tambahData">Tambah
+                <h6 class="m-0 font-weight-bold text-primary">Kuajak.com
+                    <button class="btn btn-sm btn-primary float-right" data-toggle="modal" data-target="#tambahData"><i class="fas fa-plus"></i> Tambah
                         Data</button>
                 </h6>
             </div>
@@ -110,7 +110,8 @@
         <div class="modal-dialog modal-dialog modal-dialog-centered modal- dialog-scrollable" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Tambah Data</h5>
+
+                    <h5 class="modal-title" id="exampleModalLabel"> Tambah Data</h5>
                     <button class="close" type="button" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">×</span>
                     </button>

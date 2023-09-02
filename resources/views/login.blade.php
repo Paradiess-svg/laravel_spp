@@ -19,7 +19,7 @@
     <link href="template/css/sb-admin-2.min.css" rel="stylesheet">
 </head>
 
-<body class="bg-gradient-dark">
+<body class="bg-gradient-success">
     <div class="container">
         <!-- Outer Row -->
         <div class="row justify-content-center mt-5">
@@ -33,7 +33,7 @@
                             <div class="col-lg-12">
                                 <div class="p-5">
                                     <div class="text-center">
-                                        <h1 class="h4 text-gray-900mb-4">Welcome Back!</h1>
+                                        <h1 class="h4 text-gray-900mb-4"><i class="fas fa-search-dollar"></i> Pembayaran SPP</h1>
                                     </div>
                                     <form class="user" action="{{ url('login/proses') }}" method="POST">
                                         @csrf
